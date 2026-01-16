@@ -1,9 +1,3 @@
-This is a great start—it’s clean and functional. To give it a truly "Pro" GitHub feel, I’ve adjusted the hierarchy, added more descriptive icons, and polished the copy for a more authoritative yet approachable tone.
-
-I also finished the **License** section and added a **Contribution** section to make the repository feel more like an active community project.
-
----
-
 # Chat Automation Hub 🤖
 
 A curated ecosystem of automation tools designed to bridge the gap between complex workflows and seamless messaging experiences. This hub focuses on high-utility Telegram bots and automation scripts built for scalability and real-world impact.
